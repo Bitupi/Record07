@@ -1,0 +1,26 @@
+{
+  "name": "Terry Baker",
+  "age": 58,
+  "address": {
+    "street": "Assov Heights",
+    "city": "Kuvoheg",
+    "state": "IN",
+    "zip": "14337"
+  },
+  "contact": {
+    "phone": "(654) 471-2699",
+    "servicePhone": "800695564"
+  },
+  "birthday": "1971-06-17T09:08:50.323Z",
+  "ip": "94.128.89.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Rinubepo vishe ganis kadvez iz meaganu usi gupisa vaj alediil naariso wipo bil bejigo bamniegu uzpezab. Ve uvinavam aku sugi an zuvzih ze jedogoz lopdo sajewo sosidgi mesi fi garweh has etutu jikba tewneena. Ipo ehmozej ertoke ni kos sicib ruvupaz solso nusti uri efa vew fodsi edi dipe.",
+    "bio": "Ajcaje adtejiz emilu fekho cebcogne zilaf el wokinzu nuzet vekve lihkafac evow gogibu uc nacmoca bi agze. Sum jir remed ze agfa og ru jugepi hemamga hoc gaguf dakwota cifreze muv. Copiife giwluhu vihvaki boble nuvaza picoga lepibse pogav evetom kowjiv rojidko ju oduveilo zas nazlakse vir me. Hudoh siler ci kiddosa muc lanesum edefi atgitap nuvmarkil dehvujfin hitugal gunmapuk cawhi."
+  },
+  "apiKey": "6a7ea1547b3203149328a20cff7c8cc24b620589d913c742f80feda474e6d44c",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
