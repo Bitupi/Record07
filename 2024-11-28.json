@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Chapman",
+  "age": 18,
+  "address": {
+    "street": "Tigviz Point",
+    "city": "Leubuju",
+    "state": "IA",
+    "zip": "88747"
+  },
+  "contact": {
+    "phone": "(626) 812-7579",
+    "servicePhone": "800343394"
+  },
+  "birthday": "1966-01-27T06:13:41.160Z",
+  "ip": "17.204.222.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Jusog ce mim boeb uz fe esva pe badrul eca ora owa ew fisvot. Ice vashov luiv ikohcu ukfe in pamfiwwo ovta ka owoji avemapaf eg vihub muidizi bicfecwap izre kug vabuvvus. Hofbu kucbi je ne ik si cin zenihi toczok vi mutbinoh vioflu vahferow befgo nacfif balopru.",
+    "bio": "Vuj uftommaz rotpej goip mektid zilhu ofafivesu ko mawmetvis loleg muhoh puel eko joewi uscipivu caase. Baba fu heg fefpecefa onulo wijsam jiule eppe sa otemad paw nu vognu ze etmuna awruviv. Owweca vacisoawi vepenfi orodo jeteh pimjek zovfusuz tifuh en dalufmab ana jubtobcac hoj akgabmof cioze."
+  },
+  "apiKey": "6b4e86f88391bd25a604616e1d9ffcca87e34149c6fc3b3b6653ae26114762ce",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
