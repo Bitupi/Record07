@@ -1,0 +1,26 @@
+{
+  "name": "Joshua West",
+  "age": 33,
+  "address": {
+    "street": "Imueru Loop",
+    "city": "Veorego",
+    "state": "SD",
+    "zip": "52455"
+  },
+  "contact": {
+    "phone": "(578) 251-4150",
+    "servicePhone": "800427743"
+  },
+  "birthday": "2005-07-30T08:12:53.504Z",
+  "ip": "36.45.249.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Poke mep juktumo tinuw ki zogaha zuwhij dipi ahokonvuj odzorhe zelkorat ecu uta hu. Sasipuj azvip ofabiko ip baknuot zecjev soje fuscav ku niesa zo cot itajno lu homopi ranguz. Risuzez hepra coki kiw fafji ezuses ugi uruvij sad ud hul ohfurow pearo.",
+    "bio": "Kunkov hiucumo dido moszar epun ene ufuvemi geb lodla jicezot di gojo urodiv. Fohvolkef alvegas zonjegad ritpe son cuziza ar ozi ben nuhsej rat vokehuj oj pu gof fur bujgir pi. Gocji lemojo ufzopdiz vob ercuvzek icne tekrunic wab dok deda afanok ki sig mu ef susovguw. Ehoretcu ho sukdojo bo barela cafig in unecok jep ivnumru guusa siwsumcu jut pimhap piebewa ucoculju vehuko. Washufun cigawmi lam savoza konehzi govlo kergofed kap timguve fuhulvo azledho wu vuhimfok jut lotfo. Ufikolsig oh piv ocowef osalevwu cijvaib keb tawtoma ewulotit za sizsadgu suiw jif detuw."
+  },
+  "apiKey": "5b63389d6e1d14940de5646bc6b470c7cfb541c930ce3fe3cfdfd1e1653deabd",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
