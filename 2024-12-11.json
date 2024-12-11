@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Hernandez",
+  "age": 21,
+  "address": {
+    "street": "Fibi Terrace",
+    "city": "Oloanoimo",
+    "state": "CA",
+    "zip": "47315"
+  },
+  "contact": {
+    "phone": "(541) 883-5178",
+    "servicePhone": "800829249"
+  },
+  "birthday": "1991-03-18T04:56:53.330Z",
+  "ip": "174.233.56.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Agosow om zeh an kaurtoz goer uzati umle usoutu ve zi sihbaba ow gokcucse damogsa. Reclulru cemasew vogegruj molkij bagutli se vug kuvubdol uvvot hunvahus tas ojfer. Ra ruvegmo kusgo dokimju cafwi horgachu wodwotbi mafo iziwiesu wir otjaphec gedas atjo irbuwfa ese liclem vusnu miwkac. Iwa jepolaje do um eni hajviwo kozo obouke zaviup hu icapukiv me sitdesari cic gaja jecapte si zorukdu. Zu zodzu loz geno if muek ihhef wecekan lorar cim uc cij donva bi cibli akazel.",
+    "bio": "Zafuziz afauthor akme upzil rausge venpavruj cukkud waphacnaj kavewadi wavkek vitivun kapraoc wujbi. Osa ganhul focilraj lar urhale dijbip holefca ziokiuri tulge wu lijuvoc gekul im huvof ifesuzi cir. Bun tolmodgi fingih tawpedu urrib viru dawi ecu fojfefavu zasboc jebos pihca fiw zofeb tu tum hotarbaz."
+  },
+  "apiKey": "48da5eb98487fb5730e6dea79a1c7de6322aefa0202ba824288c546bf82e7cd9",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
