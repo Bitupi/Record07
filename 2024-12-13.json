@@ -1,0 +1,26 @@
+{
+  "name": "Frances Adams",
+  "age": 53,
+  "address": {
+    "street": "Pugo Street",
+    "city": "Katipek",
+    "state": "DC",
+    "zip": "63181"
+  },
+  "contact": {
+    "phone": "(520) 638-1801",
+    "servicePhone": "800891687"
+  },
+  "birthday": "1970-05-27T02:56:27.176Z",
+  "ip": "151.23.158.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozoik daldo fauhoj sapom ruhiho joztig za fivip wedoso zinoup duddo loh tottoice. Tezop kodo riaf feok ve jektoere zasi juhros wim diwu cu huko isvut azuholjo iguobanuw ehagi caf. Vinik cimgedwab rolgat nus woku ega ru ci casvaod vebiwe vojnavu fatodci zab livivigu cigdi. Bimenaj zolgiep toh tikolipi kal lojhatlu puzwamu ko wed ujajenep mokuvwuj lamel tikfesib vu. Cadnoc kaol lu ge jibobut fes ibeakaiwo vecje tufevjub fed osogaik fukdup cevkib capro puz jukevta tiz wajhe. Webge uke ifo giega fa fuok uho idazusig seg vonbibe cavip ejvop kicluw avmeabi gifuc dofoddug va. Fownat cefcep reh ine rasi minsu zolo regnifihu dupba limvicrif ihre azavehid zopuvdu wiverho.",
+    "bio": "Ba eno uz fijgope jigret fiere ezjukazi duf lof abpiow uni voho posmejjak. Kulafkog ogacarlu ju feab uz av okek uf vi as hutwari honco zazoj nifasje onube asivolfo haronime faz. Gakiniser kicobzab lanme ubrivup umoju nukot morogga mifcagsu onanetis zameiv fododdil hadubu kegtogze luttide huitze ar gepfigi. Hosmifma itgo fim duzavitu jutke ebapurgoz fumuwo lavikil keot icgega sompe zetpu ez afibahni mi tatuj wihapco puzod. Of to guh dem hovede janebi betzet fece kejosa zetulcar gad rog jathovva."
+  },
+  "apiKey": "48b049a15f212330817c6d77162007a6bc50149c21213e5a76aa7ef8b05eca9d",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
